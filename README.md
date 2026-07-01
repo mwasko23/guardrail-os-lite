@@ -30,18 +30,21 @@ One file. Works with Claude Code, Cursor, Codex, Gemini CLI — anything that re
 
 ## Lite vs. the full kit
 
-Lite gives one agent a spine. The **full Guardrail OS kit** turns that into a *team*:
+Lite gives one agent a spine. The **full Guardrail OS kit** turns that into a *team* — three roles that coordinate through shared files in your repo, so it runs in any tool:
 
 | | Lite (free) | Full kit |
 |---|---|---|
 | Core ruleset (priority order, gates, limits, security) | ✅ | ✅ |
 | Single-agent discipline | ✅ | ✅ |
 | **Three roles** — PM / Supervisor / Coder with a real authority split | — | ✅ |
+| **File-based coordination hub** — `_hub/` message bus (LOG · BOARD · DECISIONS · FINDINGS) that survives context resets | — | ✅ |
+| **Paste-to-start bootstrap prompts** — spin up each role in any tool (Claude Code, Cursor, Codex, Gemini CLI, Cowork), no slash commands | — | ✅ |
 | **Escalation protocol** + report-back cadence (no more silent stalls) | — | ✅ |
 | **Self-evolving governance** — codify a rule the first time something breaks | — | ✅ |
 | **Stack config + reference adapter** (Next.js/Supabase worked example) | — | ✅ |
 | **5 templates** — task, PR review, escalation, incident, ADR | — | ✅ |
 | **Case studies** — three real rules, how each was born from a real failure | — | ✅ |
+| **10-minute setup guide** | — | ✅ |
 | Lifetime updates | — | ✅ |
 
 **→ Get the full kit:** https://hititai.gumroad.com/l/ghizpe

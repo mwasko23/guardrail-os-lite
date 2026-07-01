@@ -84,6 +84,6 @@ Use clear prefixes and one concern per commit: `feat:` `fix:` `refactor:` `test:
 
 ---
 
-**That's Lite.** One agent with a spine. The [full Guardrail OS kit](./README.md) turns this into a three-role team (PM / Supervisor / Coder) with an escalation protocol, self-evolving governance, stack adapters, templates, and real case studies.
+**That's Lite.** One agent with a spine. The [full Guardrail OS kit](./README.md) turns this into a three-role team (PM / Supervisor / Coder) that coordinates through a file-based hub, with an escalation protocol, self-evolving governance, stack adapters, templates, and real case studies.
 
 *MIT licensed. Built from a real three-agent team that shipped a production app — the rules are earned, not invented.*
