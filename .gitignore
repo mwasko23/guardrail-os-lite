@@ -1,0 +1,31 @@
+# OS / filesystem cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*~
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Environment / secrets (never commit these)
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# Logs
+*.log
+
+# Build / output artifacts (docs tooling, if ever added)
+node_modules/
+dist/
+build/
+_site/
+.cache/
