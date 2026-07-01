@@ -44,7 +44,7 @@ Lite gives one agent a spine. The **full Guardrail OS kit** turns that into a *t
 | **Case studies** — three real rules, how each was born from a real failure | — | ✅ |
 | Lifetime updates | — | ✅ |
 
-**→ Get the full kit:** [link — set your Gumroad / Stripe URL here]
+**→ Get the full kit:** https://hititai.gumroad.com/l/ghizpe
 
 ## License
 
