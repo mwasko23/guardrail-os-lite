@@ -49,6 +49,10 @@ Lite gives one agent a spine. The **full Guardrail OS kit** turns that into a *t
 
 **→ Get the full kit:** https://hititai.gumroad.com/l/ghizpe
 
+## Coming soon (if you want it)
+
+Thinking about a **one-click Claude Code plugin** — `/pm`, `/supervisor`, `/coder` as slash commands with the roles pre-wired, zero setup. Building it if there's demand. **Want it?** [Open an issue](../../issues/new) or star the repo to vote.
+
 ## License
 
 Lite is MIT licensed — use it, fork it, ship it. See `LICENSE`. The full kit is sold under separate commercial terms.
